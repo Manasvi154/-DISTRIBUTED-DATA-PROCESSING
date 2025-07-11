@@ -27,3 +27,5 @@ real-world use cases where businesses need quick insights from their data wareho
 grouped statistics, and total transaction-level summaries.
 
 #OUTPUT
+
+<img width="936" height="645" alt="Image" src="https://github.com/user-attachments/assets/c84cfb67-b70e-42b1-94cc-fb2fbe503c22" />
